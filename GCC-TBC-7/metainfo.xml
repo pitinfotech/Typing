@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="82EA97B8-D2A3-46DF-A576-29857A51C567" version="0">
+	<info>
+		<title>GCC-TBC -7</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="3441875">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/fonts/fnt2.woff</file>
+		<file id="id4">data/fonts/fnt3.woff</file>
+		<file id="id5">data/fonts/fnt4.woff</file>
+		<file id="id6">data/fonts/fnt5.woff</file>
+		<file id="id7">data/fonts/fnt6.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/11ae-0ffd-c847-36a4.png</file>
+		<file id="id11">data/images/img-146c-83df-517c-25ef.jpg</file>
+		<file id="id12">data/images/img-4dcf-ba16-d70f-1581.jpg</file>
+		<file id="id13">data/images/img-6a36-0015-5522-ce63.jpg</file>
+		<file id="id14">data/images/img-dee1-0a7b-9ad7-c207.png</file>
+		<file id="id15">data/images/img-eb07-036a-36ec-11c4.jpg</file>
+		<file id="id16">data/images/img-efd1-1141-3384-399b.jpg</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
